@@ -1,5 +1,15 @@
 # Chromatic Icons for Vivaldi
 Not everyone likes the somewhat retro style of the classic vivaldi icon. This is why I created an alternative, complete with a template that can be used to create your own Vivaldi icon to fit your OS/browser theme.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mechagomizilla/Chromatic-Icons-for-Vivaldi/refs/heads/main/Vivaldi_red.png" 
+    alt="Vivaldi Chromatic Icon example red" style="height:196px;" />
+  <img src="https://raw.githubusercontent.com/mechagomizilla/Chromatic-Icons-for-Vivaldi/refs/heads/main/Vivaldi_yellow.png" 
+    alt="Vivaldi Chromatic Icon example yellow" style="height:196px;" />
+  <img src="https://raw.githubusercontent.com/mechagomizilla/Chromatic-Icons-for-Vivaldi/refs/heads/main/Vivaldi_blue.png" 
+    alt="Vivaldi Chromatic Icon example blue" style="height:196px;" />
+  <img src="https://raw.githubusercontent.com/mechagomizilla/Chromatic-Icons-for-Vivaldi/refs/heads/main/Vivaldi_purple.png" 
+    alt="Vivaldi Chromatic Icon example purple" style="height:196px;" />
+</p>
 
 ## How do I apply them?
 I believe that these icons can be used on any OS as long as you adapt them to the right format. Don't ask me about anything else that Windows, however, because this is what I designed them for. If you want to create a new ico file with another color, I recommend to save it as png and then use [this website](https://icoconvert.com/) to convert it to ico as it will scale properly on Windows.
